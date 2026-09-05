@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/engmanav01-coder/100days-dsa/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/engmanav01-coder/100days-dsa/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/engmanav01-coder/100days-dsa/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
